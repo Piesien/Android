@@ -61,9 +61,6 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
         val clusterManager = ClusterManager<Spot>(this, map)
         clusterManager.renderer = ClusterRenderer(this, map, clusterManager)
 
-        // TODO
-//                clusterManager.setOnClusterItemInfoWindowClickListener(::openLocation)
-
         map.setOnCameraIdleListener(clusterManager)
 
         viewModel.getState()

@@ -30,7 +30,7 @@ class MainViewModel : ViewModel() {
 
     fun onAddSpot(latLng: LatLng): Completable {
         return RxFirebaseDatabase.setValue(database.push(), Spot().apply {
-            name = ""
+            name = "Velonovietne"
             description = ""
             type = "needed"
             latitude = latLng.latitude
