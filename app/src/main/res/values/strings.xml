@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Piesien</string>
+    <string name="add_spot_hint">Add spot</string>
+    <string name="vote_template">Votes: %d</string>
+    <string name="vote">Vote</string>
+    <string name="you_just_voted_for">You just voted for %s!</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "773809530700",
+    "firebase_url": "https://piesien-6634e.firebaseio.com",
+    "project_id": "piesien-6634e",
+    "storage_bucket": "piesien-6634e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773809530700:android:d7a7fd6e6e9a5b45",
+        "android_client_info": {
+          "package_name": "lv.piesien.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773809530700-d309f4qsmrthet8ksi8virbh5ncls3p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAse255QoijSEz6j42jFHwEXEwIPUu7MDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
